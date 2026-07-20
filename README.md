@@ -13,7 +13,7 @@
 3. /pages/user/ui/Community
 4. /pages/main/ui/Index
 
-## Строго по slices
+## По назначению
 1. /pages/profile/ui/Index
 2. /pages/profile/ui/Edit
 3. /pages/community/ui/Index
