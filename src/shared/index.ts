@@ -1,4 +1,4 @@
-export { ROUTES } from './routes/routes'
+export { ROUTES } from './routes'
 export { CONFIG } from './config'
 export type { EnvConfig } from './config'
 export { http } from './api'
