@@ -1,1 +1,1 @@
-export { RatingPage } from './ui'
+export { RatingPage } from './ui/RatingPage/RatingPage'

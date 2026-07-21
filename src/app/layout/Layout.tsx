@@ -1,5 +1,5 @@
 import { Outlet } from "react-router";
-import {Footer} from "@/shared";
+import {Footer} from "@/shared/ui";
 import { Icon } from "@/assets";
 
 export function Layout() {
